@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">GeoQuiz</string>
+    <string name="true_button">True</string>
+    <string name="false_button">False</string>
+    <string name="correct_toast">Correct!</string>
+    <string name="incorrect_toast">Incorrect!</string>
+    <string name="next_button">Next</string>
+    <string name="previous_button">Prev</string>
+    <string name="warning_text">Are you sure you want to do this?</string>
+    <string name="show_answer_button">Show Answer</string>
+    <string name="cheat_button">Cheat!</string>
+    <string name="judgment_toast">Cheating is wrong.</string>
+
+
+    <string name="question_colosseum">The Colosseum is located in Rome, Italy.</string>
+    <string name="question_coffee">World\'s largest coffee producer is Vietnam.</string>
+    <string name="question_continent">The Earth largest continent is Africa.</string>
+    <string name="question_pyramid">Sudan have the have the most pyramids in African.</string>
+    <string name="question_nile">North America hold the longest river, the Nile.</string>
+    <string name="question_us">U.S. have 52 states.</string>
+    <string name="question_frozen">The famous Disney movie Frozen takes place in England.</string>
+    <string name="question_venezuela">Venezuela have the highest water fall in the world.</string>
+    <string name="question_vaticancity">Vatican City is the smallest country in the world.</string>
+    <string name="question_greatwall">The famous Great Wall is located in China.</string>
+</resources>
